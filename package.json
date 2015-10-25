@@ -1,0 +1,28 @@
+{
+  "name": "arr-group",
+  "version": "1.0.0",
+  "description": "Helper function to group array elements by a criteria callback function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strarsis/arr-group.git"
+  },
+  "keywords": [
+    "array",
+    "group",
+    "helper",
+    "elements",
+    "callback",
+    "criteria",
+    "function"
+  ],
+  "author": "strarsis <strarsis@gmail.com> (https://github.com/strarsis)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strarsis/arr-group/issues"
+  },
+  "homepage": "https://github.com/strarsis/arr-group#readme"
+}
