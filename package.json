@@ -1,6 +1,6 @@
 {
   "name": "arr-group",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Helper function to group array elements by a criteria callback function.",
   "main": "index.js",
   "scripts": {
