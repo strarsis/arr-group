@@ -1,5 +1,7 @@
 var arrGroup = function(arr, isNextFunction, returnSingleElements) {
-  if(!returnSingleElements) returnSingleElements = true; // optional argument
+  if(typeof returnSingleElements == 'undefined') { // optional argument
+    returnSingleElements = true;
+  }
 
   var rangeGroups  = []
     , checkBuffer  = []
