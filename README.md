@@ -1,6 +1,8 @@
 # arr-group
 Helper function to group array elements by a criteria callback function.
 
+[![david](https://david-dm.org/strarsis/arr-group.svg)](https://david-dm.org/strarsis/arr-group)
+
 Usage
 -----
 ````
